@@ -31,3 +31,6 @@ Acesso de leitura e gravação a variáveis ​​de ações, administração, A
 - [x] Convites para repositórios privados - Veja os convites de um usuário para repositórios privados
 - [x] Estrelando - Liste e gerencie repositórios que um usuário está destacando.
 - [x] Assistindo - Liste e altere os repositórios nos quais um usuário está inscrito.
+
+### Link da apresentação
+https://gamma.app/docs/Gerenciando-Repositorios-no-GitHub-Do-Basico-ao-Avancado-vpa3b3jxkqv4rav
